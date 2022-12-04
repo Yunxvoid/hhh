@@ -62,7 +62,7 @@ class Config(object):
     MONGO_DB_URL="mongodb+srv://ub:ub123@horivc.cemtd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" ##mongo database link (necessary)
     DB_URL2="mongodb+srv://meowhisswswuj7.mongodb.net/?retryWrites=true&w=majority" #mongo db (not necessary)
     DB_URL="postgres://abhinav_user:Vxd9yGSDuPMYjvy6QT4cqCQHtUvmOtA9@dpg-ce69l7mn6mpk2blor4b0-a.oregon-postgres.render.com/abhinav" #postgres sql database link
-    REDIS_URL="redis://red-ce6cmtarrk071o5dlpr0:6379" #redis database url from redislabs.com
+    REDIS_URL="redis://default:JfQ6XNYdsiczJdJQ7iR1obrQYrhlLzRf@redis-12837.c278.us-east-1-4.ec2.cloud.redislabs.com:12837" #redis database url from redislabs.com
     TOKEN="5484116052:AAG_ZkxRfqyMbprxMYx6vRGQXC_NoFX2SDM" #bot token from @BotFather
     DEV_USERS="5001899507" #developers id
     DRAGONS="5001899507" #sudo users id
