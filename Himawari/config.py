@@ -58,6 +58,7 @@ class Config(object):
     API_HASH="31201ad2becae3dc8e1e55f9ae294cb9" ##api hash from my.telegram.org
     APP_HASH="31201ad2becae3dc8e1e55f9ae294cb9" #same as API_HASH
     BL_CHATS=[1] #chats to be blacklisted
+    BOT_ID="5484116052"
     MONGO_DB_URL="mongodb+srv://ub:ub123@horivc.cemtd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" ##mongo database link (necessary)
     DB_URL2="mongodb+srv://meowhisswswuj7.mongodb.net/?retryWrites=true&w=majority" #mongo db (not necessary)
     DB_URL="postgres://abhinav_user:Vxd9yGSDuPMYjvy6QT4cqCQHtUvmOtA9@dpg-ce69l7mn6mpk2blor4b0-a.oregon-postgres.render.com/abhinav" #postgres sql database link
